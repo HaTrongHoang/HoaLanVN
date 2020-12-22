@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/admin/common/header.jsp=UTF-8
+encoding//WebContent/views/client/common/footer.jsp=UTF-8
+encoding//WebContent/views/client/common/header.jsp=UTF-8
+encoding//WebContent/views/client/detailTutorial.jsp=UTF-8
+encoding//WebContent/views/client/navbartraodoi.jsp=UTF-8
+encoding//src/com/tronghoang/controller/admin/AddNewsController.java=UTF-8
+encoding//src/com/tronghoang/controller/admin/AddUserController.java=UTF-8
+encoding/<project>=UTF-8
